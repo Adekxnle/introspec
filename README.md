@@ -1,2 +1,2 @@
 # introspec
-a website for a futuristic fashion brand
+A website for a futuristic fashion brand
